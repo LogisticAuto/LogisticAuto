@@ -40,11 +40,11 @@ Data Governance, Compliance & Regulatory Reporting, Stakeholder Management, Agil
 
 Here are some of my recent hands-on projects and interview assignments that demonstrate my skills:
 
-- **[RYB-Rocket-Youth-Brands](https://github.com/LogisticAuto/RYB-Rocket-Youth-Brands)** — End-to-end analytics assessment using Jupyter Notebooks (Python + SQL)
+- **[Waymo](https://github.com/LogisticAuto/Waymo-BI-Tehnical-Case-Study)** — Fleet Efficiency Challeneg (SQL)
 - **[Airbnb](https://github.com/LogisticAuto/Airbnb)** — Advanced Analytics Assignment focused on business insights and modeling
 - **[RCG-Assignment](https://github.com/LogisticAuto/RCG-Assignment)** — Royal Caribbean Group data engineering / analytics take-home
 - **[HRD-Anti-Money-Laundering](https://github.com/LogisticAuto/HRD-Anti-Money-Laundering)** — Real-time AML monitoring solution (ties directly to my fraud prevention experience)
-- **[Tensorflow-in-10-Minutes](https://github.com/LogisticAuto/Tensorflow-in-10-Minutes)** — Neural network fundamentals with TensorFlow Sequential API
+- **[RYB-Rocket-Youth-Brands](https://github.com/LogisticAuto/RYB-Rocket-Youth-Brands)** — End-to-end analytics assessment using Jupyter Notebooks (Python + SQL)
 
 Each repo includes Jupyter notebooks, SQL queries, data exploration, and key insights. I'm actively improving documentation and adding more original end-to-end projects (CSV → Postgres/DuckDB → SQL/Python analysis → visualizations).
 
