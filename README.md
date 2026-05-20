@@ -40,7 +40,7 @@ Data Governance, Compliance & Regulatory Reporting, Stakeholder Management, Agil
 
 Here are some of my recent hands-on projects and interview assignments that demonstrate my skills:
 
-- **[Waymo](https://github.com/LogisticAuto/Waymo-BI-Tehnical-Case-Study)** — Fleet Efficiency Challeneg (SQL)
+- **[Waymo](https://github.com/LogisticAuto/Waymo-BI-Technical-Case-Study)** — Fleet Efficiency Challeneg (SQL)
 - **[Airbnb](https://github.com/LogisticAuto/Airbnb)** — Advanced Analytics Assignment focused on business insights and modeling
 - **[Roya Caribbean Group](https://github.com/LogisticAuto/RCG-Assignment)** — Royal Caribbean Group data engineering / analytics take-home
 - **[Tegria (Healthcare Consulting)](https://github.com/LogisticAuto/tegria-strategic-analysis)** — Strategic Analysis of operational inefficiencies (SQL + Tableau + PowerPoint)
