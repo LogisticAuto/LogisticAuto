@@ -42,9 +42,10 @@ Here are some of my recent hands-on projects and interview assignments that demo
 
 - **[Waymo](https://github.com/LogisticAuto/Waymo-BI-Tehnical-Case-Study)** — Fleet Efficiency Challeneg (SQL)
 - **[Airbnb](https://github.com/LogisticAuto/Airbnb)** — Advanced Analytics Assignment focused on business insights and modeling
-- **[RCG-Assignment](https://github.com/LogisticAuto/RCG-Assignment)** — Royal Caribbean Group data engineering / analytics take-home
-- **[HRD-Anti-Money-Laundering](https://github.com/LogisticAuto/HRD-Anti-Money-Laundering)** — Real-time AML monitoring solution (ties directly to my fraud prevention experience)
-- **[RYB-Rocket-Youth-Brands](https://github.com/LogisticAuto/RYB-Rocket-Youth-Brands)** — End-to-end analytics assessment using Jupyter Notebooks (Python + SQL)
+- **[Roya Caribbean Group](https://github.com/LogisticAuto/RCG-Assignment)** — Royal Caribbean Group data engineering / analytics take-home
+- **[Tegria (Healthcare Consulting)](https://github.com/LogisticAuto/tegria-strategic-analysis)** — Strategic Analysis of operational inefficiencies (SQL + Tableau + PowerPoint)
+- **[Hard Rock Digital/Bet](https://github.com/LogisticAuto/HRD-Anti-Money-Laundering)** — Real-time AML monitoring solution (ties directly to my fraud prevention experience)
+- **[Rocket-Youth-Brands](https://github.com/LogisticAuto/RYB-Rocket-Youth-Brands)** — End-to-end analytics assessment using Jupyter Notebooks (Python + SQL)
 
 Each repo includes Jupyter notebooks, SQL queries, data exploration, and key insights. I'm actively improving documentation and adding more original end-to-end projects (CSV → Postgres/DuckDB → SQL/Python analysis → visualizations).
 
@@ -68,7 +69,7 @@ Each repo includes Jupyter notebooks, SQL queries, data exploration, and key ins
 
 ---
 
-*Last updated: March 2026*
+*Last updated: May 2026*
 
 <!--
 **LogisticAuto/LogisticAuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
